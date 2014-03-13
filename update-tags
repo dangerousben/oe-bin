@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd ~/src/OpenEyes
+
+/usr/local/bin/ctags -e -R --languages=php --php-kinds=cidf
